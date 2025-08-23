@@ -14,7 +14,7 @@
   - 🪐 Interactive **Orrery Web App** (Solar system education)  
   - 🤖 **Intent Detection Chatbot**  
   - 📊 **Crypto Market Intelligence & Prediction System**  
-  - 🌍 **Carbon Footprint Estimator with Adaptive Tips**  
+
 
 ---
 
@@ -40,7 +40,6 @@
 **Databases & Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 

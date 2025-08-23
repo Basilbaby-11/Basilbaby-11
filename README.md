@@ -19,17 +19,16 @@
 
 📊 Crypto Market Intelligence & Prediction System
 
-🌍 Carbon Footprint Estimator with Adaptive Tips
 
 
 
 🛠️ Skills & Tools
 
-Languages: Python, C, C++, Java, JavaScript, SQL, PHP
+Languages: Python, C, C++, Java, JavaScript, SQL
 Frameworks: Flask, Node.js, Express.js
 AI/ML: TensorFlow, PyTorch, Scikit-learn, NLP, ANN, LLMs
 Databases: MySQL, MongoDB
-Other Tools: Git, GitHub, Docker
+Other Tools: Git, GitHub, 
 
 📂 Featured Projects
 

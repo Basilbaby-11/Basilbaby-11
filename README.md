@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-banner-link-here" alt="Basil Baby | AI & Data Science Engineer" />
+</p>
+
 # 👋  I’m Basil Baby  
 
 💡 **AI & Data Science Engineering Student** | Passionate about building intelligent systems and impactful projects.  

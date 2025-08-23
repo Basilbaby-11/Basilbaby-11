@@ -1,5 +1,4 @@
 
-
 # 👋  I’m Basil Baby  
 
 💡 **AI & Data Science Engineering Student** | Passionate about building intelligent systems and impactful projects.  

@@ -41,17 +41,17 @@
 
 ## 📊 GitHub Stats & Live Status  
 
-![Profile Views](https://komarev.com/ghpvc/?username=basilbaby&label=Profile%20views&color=0e75b6&style=flat)  
+![Profile Views](https://komarev.com/ghpvc/?username=basilbaby-11&label=Profile%20views&color=0e75b6&style=flat)  
 
-![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilbaby&show_icons=true&theme=tokyonight)  
+![Basil's GitHub stats](https://github-readme-stats.vercel.app/api?username=basilbaby-11&show_icons=true&theme=tokyonight)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilbaby&layout=compact&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilbaby-11&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basilbaby&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basilbaby-11&theme=tokyonight)  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=basilbaby&theme=tokyonight&no-frame=true&margin-w=15)  
+![trophy](https://github-profile-trophy.vercel.app/?username=basilbaby-11&theme=tokyonight&no-frame=true&margin-w=15)  
 
-![Basil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basilbaby&theme=tokyo-night)  
+![Basil's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basilbaby-11&theme=tokyo-night)  
 
 ---
 

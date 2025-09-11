@@ -32,7 +32,7 @@
 
 ## 📂 Featured Projects  
 
-🔹 [**Bedtime AI Storytelling App**](#) – Generative AI stories with soothing TTS narration  
+🔹 [**Bedtime AI Storytelling App**](https://github.com/Basilbaby-11/bedtime) – Generative AI stories with soothing TTS narration  
 🔹 [**AI Mental Health Chatbot**](#) – Empathetic self-help assistant for stress & anxiety  
 🔹 [**Eye Mouse Project**](#) – Computer vision powered hands-free control  
 🔹 [**Crypto Market Intelligence**](#) – Signal prediction system using multi-factor analysis  

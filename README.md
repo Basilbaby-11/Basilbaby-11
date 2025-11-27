@@ -13,11 +13,6 @@ I enjoy combining machine learning, software engineering, and creative ideas to 
 - 🌱 Exploring **Generative AI, NLP, and Secure FinTech Applications**  
 - 🤖 Passionate about **LLMs, Voice AI, Computer Vision, and ML Engineering**  
 - 🧪 Love working on hands-on technical projects  
-- 🔭 Currently building:
-  - 🪐 *Interactive Orrery Web App* (solar system visualisation)
-  - 🤖 *Intent Detection AI Chatbot*
-  - 📊 *Crypto Market Intelligence & Signal Prediction System*  
-  - 🎧 *AI Bedtime Story Generator with Custom Voice Narration*
 
 ---
 

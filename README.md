@@ -67,7 +67,7 @@ Computer vision–powered hands-free mouse control using eye tracking with OpenC
 
 ### 🔹 **Crypto Market Intelligence System**
 A multi-factor crypto prediction platform using technical indicators, news sentiment, and ML.  
-🔗 https://github.com/Basilbaby-11/Cryptocurrency_analysis
+🔗 https://github.com/Basilbaby-11/crypto-signal
 
 ---
 

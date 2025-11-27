@@ -81,9 +81,6 @@ A multi-factor crypto prediction platform using technical indicators, news senti
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=basilbaby-11&theme=tokyonight)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=basilbaby-11&theme=tokyonight&no-frame=true&margin-w=15)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=basilbaby-11&theme=tokyo-night)
 
 ---
 

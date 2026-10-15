@@ -68,7 +68,6 @@ A multi-factor crypto prediction platform using technical indicators, news senti
 
 ## 📊 GitHub Analytics
 
-![Profile Views](https://komarev.com/ghpvc/?username=basilbaby-11&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilbaby-11&show_icons=true&theme=tokyonight)
 

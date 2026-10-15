@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm currently pursuing **B.Tech in Artificial Intelligence & Data Science** at **SJCET Palai (KTU University)**.  
+I recently completed **B.Tech in Artificial Intelligence & Data Science** at **SJCET Palai (KTU University)**.  
 I enjoy combining machine learning, software engineering, and creative ideas to develop impactful solutions.
 
 - 🌱 Exploring **Generative AI, NLP, and Secure FinTech Applications**  

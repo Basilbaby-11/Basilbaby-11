@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **Basil Baby**
 
-🎓 **AI & Data Science Engineering Student**  
+🎓 **AI & Data Science Engineer Fresher**  
 💡 Passionate about building intelligent systems, real-world AI applications, and full-stack projects.
 
 ---

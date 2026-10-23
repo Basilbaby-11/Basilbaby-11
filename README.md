@@ -69,7 +69,7 @@ A multi-factor crypto prediction platform using technical indicators, news senti
 ## 📊 GitHub Analytics
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=basilbaby-11&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/?username=basilbaby-11&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=basilbaby-11&layout=compact&theme=tokyonight)
 
